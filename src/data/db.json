@@ -1,0 +1,172 @@
+{
+    "drinks": [
+        {
+            "id": "mojito",
+            "label": "Mojijto",
+            "img": "mojito.png",
+            "components": [
+                "whiteRum"
+            ],
+            "recipe": [
+                "1/2 limoniki",
+                "2 łyżeczki brązowego cukru",
+                "min. 8 listków mięty",
+                "2 kieliszki białego rumu",
+                "25 ml wody gazowanej",
+                "kruszony lód"
+            ],
+            "recipeDescription": [
+                "Umytą limonkę pokroić w półksiężyce i rozgnieść w wysocej szklance",
+                "Dodać brązowy cukier (można wcześniej go rozpuścić w wodzie)",
+                "Miętę potrzeć w rękach i wsypać do szklanki",
+                "Dolać biały rum",
+                "Wsypać kruszony lód",
+                "Dolać wody, by wypełnić szklankę",
+                "Delikatnie wymieszać"
+            ]
+        },
+        {
+            "id": "aperolSpritz",
+            "label": "Aperol Spritz",
+            "img": "aperolSpritz.png",
+            "components": [
+                "aperol",
+                "prosecco"
+            ],
+            "recipe": [
+                "3 części Prosecco",
+                "2 części Aperolu",
+                "1 część wody gazowanej",
+                "Plaster pomarańczy",
+                "Kostki lodu"
+            ],
+            "recipeDescription": [
+               "Do kieliszka z nóżką włożyć kostki lodu",
+               "Wlać odpowiednią ilość Aperolu",
+               "Dolać Prosecco",
+               "Dodać wody gazowanej",
+               "    "
+            ]
+        },
+        {
+            "id": "daiquiri",
+            "label": "Daiquiri",
+            "img": "daiquiri.png",
+            "components": [
+                "whiteRum"
+                
+            ],
+            "recipe": [
+                "1/2 limoniki",
+                "2 kieliszki białego rumu",
+                "lód"
+            ],
+            "recipeDescription": [
+               "pokroić limonkę i wycisnąć sok",
+               "dolać do szklanki typu martini rum",
+               "podawać z lodem"
+            ]
+        },
+        {
+            "id": "whiskeySour",
+            "label": "Whiskey Sour",
+            "img": "sour.png",
+            "components": [
+                "whiteRum"
+            ],
+            "recipe": [
+                "1/2 limoniki",
+                "2 łyżeczki brązowego cukru",
+                "min. 8 listków mięty",
+                "2 kieliszki białego rumu",
+                "25 ml wody gazowanej",
+                "kruszony lód"
+            ],
+            "recipeDescription": [
+                "Umytą limonkę pokroić w półksiężyce i rozgnieść w wysocej szklance",
+                "Dodać brązowy cukier (można wcześniej go rozpuścić w wodzie)",
+                "Miętę potrzeć w rękach i wsypać do szklanki",
+                "Dolać biały rum",
+                "Wsypać kruszony lód",
+                "Dolać wody, by wypełnić szklankę",
+                "Delikatnie wymieszać"
+            ]
+        },
+        {
+            "id": "mojito",
+            "label": "Mojijto",
+            "img": "mojito.png",
+            "components": [
+                "whiteRum"
+            ],
+            "recipe": [
+                "1/2 limoniki",
+                "2 łyżeczki brązowego cukru",
+                "min. 8 listków mięty",
+                "2 kieliszki białego rumu",
+                "25 ml wody gazowanej",
+                "kruszony lód"
+            ],
+            "recipeDescription": [
+                "Umytą limonkę pokroić w półksiężyce i rozgnieść w wysocej szklance",
+                "Dodać brązowy cukier (można wcześniej go rozpuścić w wodzie)",
+                "Miętę potrzeć w rękach i wsypać do szklanki",
+                "Dolać biały rum",
+                "Wsypać kruszony lód",
+                "Dolać wody, by wypełnić szklankę",
+                "Delikatnie wymieszać"
+            ]
+        },
+    ],
+    "alcohols": [
+        {
+            "id": "whiteRum",
+            "name": "Biały Rum"
+        },
+        {
+            "id": "rum",
+            "name": "Rum"
+        },
+        {
+            "id": "whisky",
+            "name": "Whisky"
+        },
+        {
+            "id": "vodka",
+            "name": "Wódka"
+        },
+        {
+            "id": "tequila",
+            "name": "Tequila"
+        },
+        {
+            "id": "amaretto",
+            "name": "Amaretto"
+        },
+        {
+            "id": "jagermeister",
+            "name": "Jagermeister"
+        },
+        {
+            "id": "aperol",
+            "name": "Aperol"
+        },
+        {
+            "id": "gin",
+            "name": "Gin"
+        },
+        {
+            "id": "tripleSec",
+            "name": "Triple Sec"
+        },
+        {
+            "id": "orangeLiqueur",
+            "name": "Likier pomarańczowy"
+        },
+        {
+            "id": "prosecco",
+            "name": "Prosecco"
+        }
+      
+    ]
+}
